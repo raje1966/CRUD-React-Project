@@ -27,7 +27,6 @@ const AddUser = () => {
 
     const addUserDetails = async () => {
        await addUser(user);
-
     }
 
     return (
