@@ -3,7 +3,7 @@ import { useState, useEffect} from "react";
 import { FormControl, FormGroup, InputLabel, Input, Typography, Button, styled } from "@mui/material";
 
 import { useNavigate, useParams } from "react-router-dom";
-import { getUser } from "../service/api";
+import { getUser, editUser } from "../service/api";
 
 const Container = styled(FormGroup)`
     width: 50%;
@@ -40,7 +40,7 @@ const EditUser = () => {
     }
 
     const editUserDetails = async () => {
-        await EditUser(user);
+        await editUser(user, id);
         navigate('/all');
     }
 

@@ -3,7 +3,7 @@
     {
       "name": "Rohit Sharma",
       "username": "rohitsharma",
-      "email": "rohit@gmail.com",
+      "email": "rohitsharma@gmail.com",
       "phone": "3232345899",
       "id": 1
     },
@@ -15,25 +15,18 @@
       "id": 2
     },
     {
-      "name": "Raj",
-      "username": "raj100",
-      "email": "raj.gmail.com",
-      "phone": "2121111222",
-      "id": 3
-    },
-    {
-      "name": "Raj",
-      "username": "raj100",
-      "email": "raj.gmail.com",
-      "phone": "2121111222",
-      "id": 4
-    },
-    {
       "name": "Ayushman Khurana",
       "username": "ayushmankhurana",
       "email": "ayushman@gmail.com",
       "phone": "4562314530",
       "id": 5
+    },
+    {
+      "name": "Bhavana Shrorti",
+      "username": "BhavanaS",
+      "email": "Sb@gmail.com",
+      "phone": "9309021022",
+      "id": 6
     }
   ]
 }
